@@ -8,4 +8,5 @@ Thanks! :D
 
 ## Requirements
 - Python >= 3.5
-- requirements.txt
+- colorama (pip install coloramaa)
+- requests (pip install requests)
