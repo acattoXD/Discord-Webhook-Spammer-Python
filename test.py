@@ -46,7 +46,7 @@ def start():
                 print("You're running proxyless, if you wish to use a proxy turn 'proxy' on and enter a proxy url and a method. Continuing proxyless.")
                 s.proxies = None
 
-            url = "https://discord.com/api/webhooks/1110584976015106119/nDZlkEr5z0Him03aur0KuygvIsCCJ8fuTW7-tO0fBhJYfXuE9BvGTxnLiSa_m1XD5jZD"
+            url = ""
 
             message: str = config.get("message")
             embed: bool = config.get("embed")
