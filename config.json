@@ -1,0 +1,16 @@
+{
+    "proxy": "True/False",
+    "proxyurl": "Username:Pass@IP:Port or just IP:Port.",
+    "proxytype": "Proxytype of ur proxy",
+    "threads": "Integer, don't use alot, i recommend 2",
+    "processes": "Integer, don't use alot, i recommend 1",
+    "embed": "True/False",
+    "message": "Raw message, no embed",
+    "username": "Username of the supposed webhook",
+    "title": "Embed title",
+    "description": "The description of the embed",
+    "color": "14177041 / Honestly I don't know how this work, it just does.",
+    "footer": "Footer of the Embed",
+    "ping": "True/False, this pings @everyone", 
+    "weird": "True/False, this spams weird characters, letters, symbols and digits."
+}
